@@ -2,5 +2,5 @@
 This is a special memory
 <br>
 This is specially for birthday <br>
-Complex javascript also added for doing animations
+Complex javascript also added for doing animations <br>
 Just checking github smoothness
