@@ -3,5 +3,5 @@
 <br>
 ⭐️ This is specially made for a birthday, it was a very special gift <br>
 ⭐️ Dom Manipulation is implemented for the project <br>
-⭐️ To enhance functionalities, complex JavaScript was also added like complex dom manipulation, complex functions, complex calculations, etc, for doing critical animations in this project <br>
+⭐️ To enhance functionalities, complex JavaScript was also added like complex dom manipulation like element insertion with appendchild, complex functions, complex calculations, etc, for doing critical animations in this project <br>
 ⭐️ Animation properties like Transform, Translate, scale, rotate, keyframes, etc., were used and explored in this project
